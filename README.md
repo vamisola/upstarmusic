@@ -10,3 +10,4 @@ git clone https://github.com/StephenGrider/UpStarMusic.git
 cd UpStarMusic
 npm install
 ```
+# upstarmusic
