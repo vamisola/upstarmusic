@@ -6,8 +6,7 @@ You can download this repository by using the green `Clone or Download` button o
 If you want to download it using git, copy paste the link that is presented to you, then run the following at your terminal:
 
 ```
-git clone https://github.com/StephenGrider/UpStarMusic.git
+git clone https://github.com/vamisola/upstarmusic.git
 cd UpStarMusic
 npm install
 ```
-# upstarmusic
